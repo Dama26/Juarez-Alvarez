@@ -1,4 +1,4 @@
-﻿using actividad_hotfix;
+using actividad_hotfix;
 using actividad_hotfix.personaje;
 
 Personaje personaje = new Personaje()
@@ -6,7 +6,7 @@ Personaje personaje = new Personaje()
     Nombre = "Oxidiana",
     Vida = 80,
     Ataque = 50,
-    Defensa = -35, //Error intencional
+    Defensa = 35,
     Nivel = 3
 };
 
