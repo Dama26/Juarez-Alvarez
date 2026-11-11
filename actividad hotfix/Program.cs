@@ -6,7 +6,7 @@ Personaje personaje = new Personaje()
     Nombre = "Oxidiana",
     Vida = 80,
     Ataque = 50,
-    Defensa = 35,
+    Defensa = -35, //Error intencional
     Nivel = 3
 };
 
